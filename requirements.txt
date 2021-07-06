@@ -5,5 +5,4 @@ numpy
 Pillow 
 BeautifulSoup4 
 requests
-pickle
  
